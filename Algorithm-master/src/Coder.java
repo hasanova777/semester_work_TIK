@@ -7,7 +7,7 @@ import java.util.stream.IntStream;
 
 public class Coder {
 
-    public static final String fileName = "src/resource/mtf.txt";
+    public static final String fileName = "Algorithm-master/src/resource/mtf.txt";
 
     public Map<String, Integer> bwTransform(){
         Scanner in = new Scanner(System.in);
