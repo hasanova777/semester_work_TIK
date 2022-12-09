@@ -7,7 +7,7 @@ import java.util.stream.IntStream;
 
 public class Decoder {
 
-    public static final String fileName = "src/resource/fano.txt";
+    public static final String fileName = "Algorithm-master/src/resource/fano.txt";
 
     public String decodeAlgorithm(){
         Scanner in = new Scanner(System.in);
